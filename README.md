@@ -11,17 +11,16 @@
 /></h3>
 
 <h1>I’m Currently Learning</h1>
-<a><img
+<a href="#" target="blank"><img
   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/React.svg"
-  width="25"
-  height="25"
-  display: inline-block;
-/><img
+  width="55"
+  height="55"
+  /></a><a href="#" target="blank"><img
   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png"
-  width="25"
-  height="25"
-  display: inline-block;
+  width="55"
+  height="55"
 /></a>
+
 
 - 📫 How to reach me **artinasadzade7@gmail.com**
 
