@@ -63,11 +63,10 @@
   width="55"
   height="55"
 /></a>
+<a href=mailto:"artinasadzade7@gmail.com"></a>
 
 
 
-
-<a href=mailto:"artinasadzade7@gmail.com">test</a>
 - 📫 How to reach me **artinasadzade7@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
