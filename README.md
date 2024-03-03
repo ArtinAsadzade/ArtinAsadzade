@@ -67,8 +67,8 @@
 
 
 
-
-- 📫 How to reach me **artinasadzade7@gmail.com**
+<a href=mailto:"artinasadzade7@gmail.com">test</a>
+- 📫 How to reach me **artinasadzade7@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
