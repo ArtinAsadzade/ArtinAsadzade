@@ -2,7 +2,11 @@
   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png"
   width="35"
   height="35"
-/>, I'm Artin</h1>
+/>, I'm Artin <img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Star.png"
+  width="35"
+  height="35"
+/></h1>
 
 <h3 align="center">Hey there! I'm a front-end developer passionate about creating beautiful and user-friendly websites.</h3>
 
