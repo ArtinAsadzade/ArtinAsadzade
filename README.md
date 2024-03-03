@@ -11,15 +11,15 @@
 /></h3>
 
 <h1>I’m Currently Learning</h1>
-<a href="#" target="blank"><img
+<a href="#" target="blank" style="margin: 10px;"><img
   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/React.svg"
   width="55"
   height="55"
-  /></a><a href="#" target="blank"><img
+  /></a><a href="#" target="blank" style="margin: 10px;"><img
   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/NextJS.svg"
   width="55"
   height="55"
-/></a><a href="#" target="blank"><img
+/></a><a href="#" target="blank" style="margin: 10px;"><img
   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/TailwindCSS.svg"
   width="55"
   height="55"
