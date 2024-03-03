@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Artin</h1>
-<img
-  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png"
+<h1 align="center">Hi <img
+  src="[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png](https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png)"
   alt="Cat with Tears of Joy"
   width="25"
   height="25"
-/>
+/>, I'm Artin</h1>
+
 <h3 align="center">Hey there! I'm a front-end developer passionate about creating beautiful and user-friendly websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artinasadzade&label=Profile%20views&color=0e75b6&style=flat" alt="artinasadzade" /> </p>
