@@ -63,7 +63,7 @@
   width="55"
   height="55"
 /></a>
-<a href=mailto:"artinasadzade7@gmail.com"></a>
+<a href=mailto:"artinasadzade7@gmail.com">test</a>
 
 
 
