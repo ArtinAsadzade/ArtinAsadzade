@@ -27,7 +27,7 @@
   height="55"
 /></a>
 <a href="#" target="_blank"><img
-  src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/b71994c392ce25fae556cbcaec2e88e77ab004b5/html-5-logo-svgrepo-com.svg"
+  src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/fd48757a844b4e7775a7f50661d7d45e9bae7077/html-5-logo-svgrepo-com.svg"
   width="55"
   height="55"
 /></a>
