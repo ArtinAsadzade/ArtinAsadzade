@@ -71,17 +71,17 @@
   height="35"
 /></h1>
 <a href=mailto:"artinasadzade7@gmail.com" target="_blank"><img
-  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png"
+  src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/65aa0e422c07e1f00a77b08d278462db4f083cc1/Gmail_Logo.svg"
   width="35"
   height="35"
 /></a>
 <a href=mailto:"artinasadzade7@gmail.com" target="_blank"><img
-  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png"
+  src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/65aa0e422c07e1f00a77b08d278462db4f083cc1/linkedin-svgrepo-com.svg"
   width="35"
   height="35"
 /></a>
 <a href=mailto:"artinasadzade7@gmail.com" target="_blank"><img
-  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png"
+  src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/65aa0e422c07e1f00a77b08d278462db4f083cc1/link-svgrepo-com.svg"
   width="35"
   height="35"
 /></a>
