@@ -11,7 +11,32 @@
 /></h3>
 
 
-<h1>I’m Currently Learning</h1>
+<h1>My Skills <img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Fire.png"
+  width="35"
+  height="35"
+/></h1>
+<a href="#" target="blank"><img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/JavaScript.svg"
+  width="55"
+  height="55"
+  /></a>
+  <a href="#" target="blank"><img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/NextJS.svg"
+  width="55"
+  height="55"
+/></a>
+<a href="#" target="blank"><img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/TailwindCSS.svg"
+  width="55"
+  height="55"
+/></a>
+
+<h1>I’m Currently Learning <img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png"
+  width="35"
+  height="35"
+/></h1>
 <a href="#" target="blank"><img
   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/React.svg"
   width="55"
@@ -29,22 +54,7 @@
 /></a>
 
 
-<h1>My Skills</h1>
-<a href="#" target="blank"><img
-  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/JavaScript.svg"
-  width="55"
-  height="55"
-  /></a>
-  <a href="#" target="blank"><img
-  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/NextJS.svg"
-  width="55"
-  height="55"
-/></a>
-<a href="#" target="blank"><img
-  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/TailwindCSS.svg"
-  width="55"
-  height="55"
-/></a>
+
 
 
 - 📫 How to reach me **artinasadzade7@gmail.com**
