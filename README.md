@@ -63,6 +63,11 @@
   width="55"
   height="55"
 /></a>
+<a href="#" target="_blank"><img
+  src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/0fa00736142b969a9d0a863c8b1945f9da877189/ReduxIcon.svg"
+  width="55"
+  height="55"
+/></a>
 
 
 <h1>Connect with me <img
