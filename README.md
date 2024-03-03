@@ -2,19 +2,14 @@
   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png"
   width="35"
   height="35"
-/>, I'm Artin <img
-  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Star.png"
+/>, I'm Artin</h1>
+
+<h3 align="center">I'm Artin, a front-end developer who loves turning ideas into reality. With a strong foundation in design principles and a passion for innovation. I believe that a well-designed website can make a significant impact on a business's success <img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png"
   width="35"
   height="35"
-/></h1>
+/></h3>
 
-<h3 align="center">I'm Artin, a front-end developer who loves turning ideas into reality. With a strong foundation in design principles and a passion for innovation. I believe that a well-designed website can make a significant impact on a business's success<img
-  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps%20Medium-Light%20Skin%20Tone.png"
-  width="35"
-  height="35"
-/> .</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=artinasadzade&label=Profile%20views&color=0e75b6&style=flat" alt="artinasadzade" /> </p>
 
 - 🌱 I’m currently learning **Redux, React**
 
