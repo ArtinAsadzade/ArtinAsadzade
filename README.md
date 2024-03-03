@@ -6,8 +6,8 @@
 
 <h3 align="center">I'm Artin, a front-end developer who loves turning ideas into reality. With a strong foundation in design principles and a passion for innovation. I believe that a well-designed website can make a significant impact on a business's success <img
   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png"
-  width="35"
-  height="35"
+  width="25"
+  height="25"
 /></h3>
 
 
