@@ -76,7 +76,7 @@
   height="35"
 /></a>
 <a href=mailto:"artinasadzade7@gmail.com" target="_blank"><img
-  src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/65aa0e422c07e1f00a77b08d278462db4f083cc1/linkedin-svgrepo-com.svg"
+  src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/28971babd2bf6a1591a1c77e1067445b58652655/linkedin-svgrepo-com.svg"
   width="35"
   height="35"
 /></a>
