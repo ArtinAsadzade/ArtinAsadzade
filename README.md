@@ -31,8 +31,13 @@
   width="55"
   height="55"
 /></a>
-  <a href="#" target="_blank"><img
+<a href="#" target="_blank"><img
   src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/68f167cc958f1724ae88526a1d6a398f110bdd3f/css-3-logo-svgrepo-com.svg"
+  width="55"
+  height="55"
+/></a>
+<a href="#" target="_blank"><img
+  src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"
   width="55"
   height="55"
 /></a>
