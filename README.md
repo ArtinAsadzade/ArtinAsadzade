@@ -10,8 +10,16 @@
   height="25"
 /></h3>
 
-
-- 🌱 I’m currently learning **Redux, React**
+<h1>I’m Currently Learning</h1>
+<img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/React.svg"
+  width="25"
+  height="25"
+/><img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png"
+  width="25"
+  height="25"
+/>
 
 - 📫 How to reach me **artinasadzade7@gmail.com**
 
