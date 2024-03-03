@@ -17,7 +17,7 @@
   height="35"
 /></h1>
 <a href="#" target="blank"><img
-  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/JavaScript.svg"
+  src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg"
   width="55"
   height="55"
   /></a>
