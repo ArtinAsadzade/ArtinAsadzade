@@ -1,8 +1,7 @@
 <h1 align="center">Hi <img
   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png"
-  alt="Cat with Tears of Joy"
-  width="25"
-  height="25"
+  width="45"
+  height="45"
 />, I'm Artin</h1>
 
 <h3 align="center">Hey there! I'm a front-end developer passionate about creating beautiful and user-friendly websites.</h3>
