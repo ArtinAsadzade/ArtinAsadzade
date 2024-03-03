@@ -17,7 +17,7 @@
   height="35"
 /></h1>
 <a href="#" target="blank"><img
-  src="file:///C:/Users/Artin/Downloads/javascript-logo-svgrepo-com.svg"
+  src="http://www.w3.org/2000/svg"
   width="55"
   height="55"
   /></a>
