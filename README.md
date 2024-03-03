@@ -66,7 +66,7 @@
 
 
 <h1>Connect with me <img
-  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png"
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png"
   width="35"
   height="35"
 /></h1>
