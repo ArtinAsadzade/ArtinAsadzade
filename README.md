@@ -20,6 +20,7 @@
   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png"
   width="25"
   height="25"
+  display="inline-block"
 />
 
 - 📫 How to reach me **artinasadzade7@gmail.com**
