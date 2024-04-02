@@ -22,17 +22,17 @@
   height="55"
   /></a>
 <a href="#" target="_blank"><img
-  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/TailwindCSS.svg"
-  width="55"
-  height="55"
-/></a>
-<a href="#" target="_blank"><img
   src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/fd48757a844b4e7775a7f50661d7d45e9bae7077/html-5-logo-svgrepo-com.svg"
   width="55"
   height="55"
 /></a>
 <a href="#" target="_blank"><img
   src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/68f167cc958f1724ae88526a1d6a398f110bdd3f/css-3-logo-svgrepo-com.svg"
+  width="55"
+  height="55"
+/></a>
+<a href="#" target="_blank"><img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/TailwindCSS.svg"
   width="55"
   height="55"
 /></a>
