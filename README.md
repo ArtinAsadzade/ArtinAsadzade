@@ -27,7 +27,7 @@
   height="55"
   /></a>
   <a href="#" target="_blank"><img
-  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/npm.svg"
+  src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/6e7af72f00d6e5cb962555bae31e8da4d195d09d/npm.svg"
   width="55"
   height="55"
 /></a>
