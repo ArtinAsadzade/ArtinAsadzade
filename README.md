@@ -37,7 +37,7 @@
   height="55"
 /></a>
 <a href="#" target="_blank"><img
-  src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/c6e1aab4a3f22bbd0db0aab36ef43fa23fa78e8f/bootstrap.svg"
+  src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg"
   width="55"
   height="55"
 /></a>
