@@ -37,6 +37,11 @@
   height="55"
 /></a>
 <a href="#" target="_blank"><img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/React.svg"
+  width="55"
+  height="55"
+  /></a>
+<a href="#" target="_blank"><img
   src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"
   width="55"
   height="55"
@@ -53,11 +58,6 @@
   width="35"
   height="35"
 /></h1>
-<a href="#" target="_blank"><img
-  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/React.svg"
-  width="55"
-  height="55"
-  /></a>
   <a href="#" target="_blank"><img
   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/NextJS.svg"
   width="55"
