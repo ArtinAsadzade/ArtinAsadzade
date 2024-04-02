@@ -38,7 +38,7 @@
 /></a>
 <a href="#" target="_blank"><img
   src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg"
-  width="55"
+  width="65"
   height="55"
 /></a>
 <a href="#" target="_blank"><img
