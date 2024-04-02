@@ -80,7 +80,7 @@
   width="30"
   height="30"
 /></a>
-<a href=mailto:"artinasadzade7@gmail.com" target="_blank"><img
+<a href=mailto:"artinasadzade7@gmail.com" target="_blank" style="margin: 10px;"><img
   src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/28971babd2bf6a1591a1c77e1067445b58652655/linkedin-svgrepo-com.svg"
   width="30"
   height="30"
