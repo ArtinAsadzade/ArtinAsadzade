@@ -52,11 +52,6 @@
   height="55"
 /></a>
 <a href="#" target="_blank"><img
-  src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"
-  width="55"
-  height="55"
-/></a>
-<a href="#" target="_blank"><img
   src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg"
   width="55"
   height="55"
