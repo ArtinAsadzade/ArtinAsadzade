@@ -22,6 +22,11 @@
   height="55"
   /></a>
 <a href="#" target="_blank"><img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/JavaScript.svg"
+  width="55"
+  height="55"
+  /></a>
+<a href="#" target="_blank"><img
   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/React.svg"
   width="55"
   height="55"
@@ -63,16 +68,7 @@
 /></a>
 
 
-<h1>I’m Currently Learning <img
-  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png"
-  width="35"
-  height="35"
-/></h1>
-<a href="#" target="_blank"><img
-  src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/0fa00736142b969a9d0a863c8b1945f9da877189/ReduxIcon.svg"
-  width="55"
-  height="55"
-/></a>
+
 
 
 <h1>Connect with me <img
