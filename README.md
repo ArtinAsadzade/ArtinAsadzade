@@ -4,7 +4,10 @@
   height="35"
 />, I'm Artin</h1>
 
-<h3 align="center">I'm Artin, a front-end developer who loves turning ideas into reality. With a strong foundation in design principles and a passion for innovation. I believe that a well-designed website can make a significant impact on a business's success <img
+<h3 align="center">I stepped into the world of web development two years ago, and since then, I’ve been on an exciting journey of turning ideas into beautiful, functional digital experiences. With a sharp eye for design and an obsession with clean, efficient code, I thrive on challenges that let me push boundaries and grow. I'm deeply committed to writing maintainable, high-quality code and continuously learning the latest technologies in the ever-evolving front-end world. Whether it's crafting pixel-perfect UIs or collaborating within a team to bring complex ideas to life, I bring energy, precision, and passion to every project I touch.
+  ☕ Turning coffee into code.
+  💡 Always learning, always building.
+  <img
   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png"
   width="25"
   height="25"
