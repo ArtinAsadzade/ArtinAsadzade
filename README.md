@@ -27,6 +27,11 @@
   width="55"
   height="55"
   /></a>
+  <a href="#" target="_blank"><img
+  src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/refs/heads/main/nodejs.png"
+  width="55"
+  height="55"
+  /></a>
 <a href="#" target="_blank"><img
   src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/refs/heads/main/ts.webp"
   width="55"
