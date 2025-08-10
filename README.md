@@ -1,63 +1,104 @@
-# Hey 👋 I'm Artin <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="28" height="28" />
+<h1 align="center">Hey<img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png"
+  width="35"
+  height="35"
+/>, I'm Artin</h1>
 
-**Front-end Developer · UI lover · Clean code enthusiast**
+<h3 align="center">I stepped into the world of web development two years ago, and since then, I’ve been on an exciting journey of turning ideas into beautiful, functional digital experiences. With a sharp eye for design and an obsession with clean, efficient code, I thrive on challenges that let me push boundaries and grow. I'm deeply committed to writing maintainable, high-quality code and continuously learning the latest technologies in the ever-evolving front-end world. Whether it's crafting pixel-perfect UIs or collaborating within a team to bring complex ideas to life, I bring energy, precision, and passion to every project I touch.
+  <img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png"
+  width="25"
+  height="25"
+/>
+  <br />
+  ☕ Turning coffee into code.
+  <br />
+  💡 Always learning, always building.
+  </h3>
 
-من دو ساله وارد دنیای توسعهٔ وب شدم. عاشق طراحی پیکسلی دقیق، کدنویسی تمیز و ساختن تجربه‌های کاربری روان هستم. علاقه‌مند به یادگیری مستمرِ تکنولوژی‌های جدید و خلق رابط‌هایی که هم زیبا باشند و هم قابل نگهداری.
 
-> ☕ قهوه می‌زنم → کد تحویل می‌دم.  
-> 💡 همیشه در حال یادگیری و ساختن.
+<h1>My Skills <img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Fire.png"
+  width="35"
+  height="35"
+/></h1>
+<a href="#" target="_blank"><img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/JavaScript.svg"
+  width="55"
+  height="55"
+  /></a>
+  <a href="#" target="_blank"><img
+  src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/refs/heads/main/nodejs.png"
+  width="55"
+  height="55"
+  /></a>
+<a href="#" target="_blank"><img
+  src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/refs/heads/main/ts.webp"
+  width="55"
+  height="55"
+  /></a>
+<a href="#" target="_blank"><img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/React.svg"
+  width="55"
+  height="55"
+  /></a>
+  <a href="#" target="_blank"><img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/NextJS.svg"
+  width="55"
+  height="55"
+/></a>
+  <a href="#" target="_blank"><img
+  src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/6e7af72f00d6e5cb962555bae31e8da4d195d09d/npm.svg"
+  width="55"
+  height="55"
+/></a>
+<a href="#" target="_blank"><img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/TailwindCSS.svg"
+  width="55"
+  height="55"
+/></a>
+<a href="#" target="_blank"><img
+  src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg"
+  width="65"
+  height="55"
+/></a>
+<a href="#" target="_blank"><img
+  src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/fd48757a844b4e7775a7f50661d7d45e9bae7077/html-5-logo-svgrepo-com.svg"
+  width="55"
+  height="55"
+/></a>
+<a href="#" target="_blank"><img
+  src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/68f167cc958f1724ae88526a1d6a398f110bdd3f/css-3-logo-svgrepo-com.svg"
+  width="55"
+  height="55"
+/></a>
+<a href="#" target="_blank"><img
+  src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg"
+  width="55"
+  height="55"
+/></a>
 
----
 
-## 🧰 Skills
 
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/JavaScript.svg" width="48" height="48" alt="JavaScript" /> JavaScript</td>
-    <td><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/refs/heads/main/ts.webp" width="48" height="48" alt="TypeScript" /> TypeScript</td>
-    <td><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/refs/heads/main/nodejs.png" width="48" height="48" alt="Node.js" /> Node.js</td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/React.svg" width="48" height="48" alt="React" /> React</td>
-    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/NextJS.svg" width="48" height="48" alt="Next.js" /> Next.js</td>
-    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/TailwindCSS.svg" width="48" height="48" alt="Tailwind" /> Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" width="48" height="48" alt="Bootstrap" /> Bootstrap</td>
-    <td><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/fd48757a844b4e7775a7f50661d7d45e9bae7077/html-5-logo-svgrepo-com.svg" width="48" height="48" alt="HTML5" /> HTML5</td>
-    <td><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/68f167cc958f1724ae88526a1d6a398f110bdd3f/css-3-logo-svgrepo-com.svg" width="48" height="48" alt="CSS3" /> CSS3</td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/6e7af72f00d6e5cb962555bae31e8da4d195d09d/npm.svg" width="48" height="48" alt="npm" /> npm</td>
-    <td><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" width="48" height="48" alt="Git" /> Git</td>
-    <td></td>
-  </tr>
-</table>
 
----
 
-## ⭐ Projects (نمونهٔ کارها)
-- **Ripaz** — رابط کاربری جذاب و تجربهٔ کاربری تمیز برای پروژه‌ای کاربردی.  
-- **International Legal Advisor** — سایت تک‌صفحه‌ای با تمرکز بر محتوا و خوانایی.  
-- **Infinity Zone** — تجربه‌های تعاملی و گرافیکی برای بازی یا landing page.  
-- **ArtCoin Airdrop** — صفحهٔ معرفی و ثبت‌نام ایردراپ.  
-- **Anonyx** — پروژهٔ مسنجر/چت با امکانات مدرن.
-
-(اگر مایل باشی، برای هر پروژه یک کارت کوچک با لینک، تکنولوژی‌ها و اسکرین‌شات اضافه می‌کنم.)
-
----
-
-## ✉️ Connect
-
-- Email: [artinasadzade7@gmail.com](mailto:artinasadzade7@gmail.com)  
-- LinkedIn: https://www.linkedin.com/in/artinasadzade/  
-- Website: https://artinasadzade.ir
-
----
-
-## ✅ خواستی انجام بدم؟
-- نسخهٔ **رنگی / شخصی‌سازی‌شده** با تم (مثلاً آبی / تیره) بسازم؟  
-- نسخهٔ **فشرده** (یک‌صفحه‌ای خلاصه) یا **بسط‌یافته** (شامل badges، آمار GitHub، و اسکرین‌شات) می‌خوای؟  
-- می‌خوای آیکون‌ها رو تبدیل کنم به **badges** (شیلدز) تا همخوانی و رنگ‌دهی داشته باشن؟
-
-اگر آماده‌ای، بگو کد رو مستقیماً جای `README.md` بذارم یا اول یک نسخهٔ رنگی ببینیش — من انجامش می‌دم.
+<h1>Connect with me <img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png"
+  width="35"
+  height="35"
+/></h1>
+<a href=mailto:"artinasadzade7@gmail.com" target="_blank"><img
+  src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/65aa0e422c07e1f00a77b08d278462db4f083cc1/Gmail_Logo.svg"
+  width="30"
+  height="30"
+/></a>
+<a href="https://www.linkedin.com/in/artinasadzade/" target="_blank"><img
+  src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/28971babd2bf6a1591a1c77e1067445b58652655/linkedin-svgrepo-com.svg"
+  width="30"
+  height="30"
+/></a>
+<a href="https://artinasadzade.ir" target="_blank"><img
+  src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/65aa0e422c07e1f00a77b08d278462db4f083cc1/link-svgrepo-com.svg"
+  width="30"
+  height="30"
+/></a>
