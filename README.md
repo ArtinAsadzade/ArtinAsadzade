@@ -24,6 +24,7 @@
   <a href="#"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/refs/heads/main/ts.webp" width="55" height="55" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/fd48757a844b4e7775a7f50661d7d45e9bae7077/html-5-logo-svgrepo-com.svg" width="55" height="55" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/68f167cc958f1724ae88526a1d6a398f110bdd3f/css-3-logo-svgrepo-com.svg" width="55" height="55" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/refs/heads/main/nodejs.png" width="55" height="55" /></a>
 </div>
 
 <!-- ⚛️ Frameworks & Libraries -->
@@ -47,7 +48,6 @@
   <a href="#"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/72a586f937e63bf2de74d0279e2d9d3fa2ba8b84/Octicons-mark-github.svg" width="55" height="55" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/72a586f937e63bf2de74d0279e2d9d3fa2ba8b84/vercel.svg" width="55" height="55" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/72a586f937e63bf2de74d0279e2d9d3fa2ba8b84/docker.png" width="55" height="55" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/refs/heads/main/nodejs.png" width="55" height="55" /></a>
 </div>
 
 <h1>Connect with me 
