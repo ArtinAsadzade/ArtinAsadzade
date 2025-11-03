@@ -48,6 +48,7 @@
   <a href="#"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/72a586f937e63bf2de74d0279e2d9d3fa2ba8b84/Octicons-mark-github.svg" width="55" height="55" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/72a586f937e63bf2de74d0279e2d9d3fa2ba8b84/vercel.svg" width="55" height="55" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/72a586f937e63bf2de74d0279e2d9d3fa2ba8b84/docker.png" width="55" height="55" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/refs/heads/main/Vitejs-logo.svg.png" width="55" height="55" /></a>
 </div>
 
 <h1>Connect with me 
