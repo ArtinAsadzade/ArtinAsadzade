@@ -68,3 +68,9 @@
 <a href="https://artinasadzade.ir" target="_blank">
   <img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/65aa0e422c07e1f00a77b08d278462db4f083cc1/link-svgrepo-com.svg" width="30" height="30" />
 </a>
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=artinasadzade&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=artinasadzade&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=artinasadzade&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
