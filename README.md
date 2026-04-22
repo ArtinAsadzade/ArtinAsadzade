@@ -20,7 +20,7 @@
 <!-- ========== ABOUT ========== -->
 <h2>About Me</h2>
 <p>
-  I stepped into the world of web development two years ago, and since then, I’ve been on an exciting journey of turning ideas into beautiful, functional digital experiences.
+  I stepped into the world of web development four years ago, and since then, I’ve been on an exciting journey of turning ideas into beautiful, functional digital experiences.
   With a sharp eye for design and an obsession with clean, efficient code, I thrive on challenges that let me push boundaries and grow.
   I'm deeply committed to writing maintainable, high-quality code and continuously learning the latest technologies in the ever-evolving front-end world.
   Whether it's crafting pixel-perfect UIs or collaborating within a team to bring complex ideas to life, I bring energy, precision, and passion to every project I touch.
@@ -38,37 +38,37 @@
 
 <h4>Languages</h4>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/JavaScript.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/refs/heads/main/ts.webp" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/fd48757a844b4e7775a7f50661d7d45e9bae7077/html-5-logo-svgrepo-com.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/68f167cc958f1724ae88526a1d6a398f110bdd3f/css-3-logo-svgrepo-com.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/refs/heads/main/nodejs.png" width="50" height="50"/>
+  <span style="display:inline-block;width:52px;height:52px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/JavaScript.svg" width="48" height="48"/></span>
+  <span style="display:inline-block;width:52px;height:52px;"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/refs/heads/main/ts.webp" width="48" height="48"/></span>
+  <span style="display:inline-block;width:52px;height:52px;"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/fd48757a844b4e7775a7f50661d7d45e9bae7077/html-5-logo-svgrepo-com.svg" width="48" height="48"/></span>
+  <span style="display:inline-block;width:52px;height:52px;"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/68f167cc958f1724ae88526a1d6a398f110bdd3f/css-3-logo-svgrepo-com.svg" width="48" height="48"/></span>
+  <span style="display:inline-block;width:52px;height:52px;"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/refs/heads/main/nodejs.png" width="48" height="48"/></span>
 </div>
 
 <h4>Frameworks & Libraries</h4>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/React.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/NextJS.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/6e7af72f00d6e5cb962555bae31e8da4d195d09d/npm.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/TailwindCSS.svg" width="50" height="50"/>
-  <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" width="58" height="50"/>
+  <span style="display:inline-block;width:52px;height:52px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/React.svg" width="48" height="48"/></span>
+  <span style="display:inline-block;width:52px;height:52px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/NextJS.svg" width="48" height="48"/></span>
+  <span style="display:inline-block;width:52px;height:52px;"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/6e7af72f00d6e5cb962555bae31e8da4d195d09d/npm.svg" width="48" height="48"/></span>
+  <span style="display:inline-block;width:52px;height:52px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/bafa9385533e2cb404dec862d5bf951a47211fb9/assets/icons/TailwindCSS.svg" width="48" height="48"/></span>
+  <span style="display:inline-block;width:52px;height:52px;"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" width="48" height="48"/></span>
 </div>
 
 <h4>Tools</h4>
 <div align="left">
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/72a586f937e63bf2de74d0279e2d9d3fa2ba8b84/postman.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/72a586f937e63bf2de74d0279e2d9d3fa2ba8b84/figma.webp" width="50" height="50"/>
+  <span style="display:inline-block;width:52px;height:52px;"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" width="48" height="48"/></span>
+  <span style="display:inline-block;width:52px;height:52px;"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/72a586f937e63bf2de74d0279e2d9d3fa2ba8b84/postman.svg" width="48" height="48"/></span>
+  <span style="display:inline-block;width:52px;height:52px;"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/72a586f937e63bf2de74d0279e2d9d3fa2ba8b84/figma.webp" width="48" height="48"/></span>
 </div>
 
 <h4>Platforms</h4>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/72a586f937e63bf2de74d0279e2d9d3fa2ba8b84/Octicons-mark-github.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/72a586f937e63bf2de74d0279e2d9d3fa2ba8b84/docker.png" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/refs/heads/main/Vitejs-logo.svg.png" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/26acd7e63ba976bd8fc55618f67e2d1726232188/Vercel_favicon.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/refs/heads/main/linux.png" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/refs/heads/main/nginx.webp" width="50" height="50"/>
+  <span style="display:inline-block;width:52px;height:52px;"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/72a586f937e63bf2de74d0279e2d9d3fa2ba8b84/Octicons-mark-github.svg" width="48" height="48"/></span>
+  <span style="display:inline-block;width:52px;height:52px;"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/72a586f937e63bf2de74d0279e2d9d3fa2ba8b84/docker.png" width="48" height="48"/></span>
+  <span style="display:inline-block;width:52px;height:52px;"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/refs/heads/main/Vitejs-logo.svg.png" width="48" height="48"/></span>
+  <span style="display:inline-block;width:52px;height:52px;"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/26acd7e63ba976bd8fc55618f67e2d1726232188/Vercel_favicon.svg" width="48" height="48"/></span>
+  <span style="display:inline-block;width:52px;height:52px;"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/refs/heads/main/linux.png" width="48" height="48"/></span>
+  <span style="display:inline-block;width:52px;height:52px;"><img src="https://raw.githubusercontent.com/ArtinAsadzade/ArtinAsadzade/refs/heads/main/nginx.webp" width="48" height="48"/></span>
 </div>
 
 <br/>
